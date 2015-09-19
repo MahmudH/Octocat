@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words
+branches in git allows you to create a separate directory away from the master branch were the original files are kept so that you can edit them without affecting the original files. This way you can work on projects and if you are happy with the files you can merge the editted files in the branch you created with the master branch
